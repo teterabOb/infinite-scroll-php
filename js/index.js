@@ -25,7 +25,7 @@ function cargarPost(num){
     
     })
     .then((response)=> {
-        //console.log(response)
+        console.log(response)
         //Variable local, contiene todos los POSTS desde la BDD según parámetros
         let totalPublicaciones = response.data.publicaciones.length;
         //Ciclo para recorrer los post y mostrarlos en el front-end
