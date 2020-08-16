@@ -1,2 +1,2 @@
 # infinite-scroll-php
-Scroll infinito en PHP utilizando JavaScript
+Infinite scroll in php using JS
