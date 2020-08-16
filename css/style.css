@@ -1,0 +1,10 @@
+ .listado-publicaciones{
+     width: 80%;
+     border: 2px solid rgb(10, 222, 250);
+     background-color: rgb(193, 251, 255);
+     padding: 2%;
+     margin: 0 auto;
+     margin-bottom: 1rem;
+     border-radius: 25px;
+
+ }
